@@ -1,0 +1,50 @@
+*body{
+    margin: 0px;
+    padding: 0px;
+}
+#topo{
+    width: 980px;
+    height: 90px;
+    background-color: brown;
+    margin:auto;
+}
+
+#menu{
+    width: 980px;
+    height: 50;
+    background-color: red;
+    margin: auto;
+}
+
+#container{
+    width: 980px;
+    height: 400;
+    background-color: coral;
+    margin:auto;
+    
+}
+
+#esquerdo{
+    width: 400px;
+    height: 350;
+    background-color:white;
+    float: left;
+
+}
+
+#direito{
+    width: 400px;
+    height: 350;
+    background-color:white;
+    float: right;
+
+}
+
+#rodape{
+    width: 980px;
+    height: 30;
+    background-color:pink;
+    margin: auto;
+
+}
+

@@ -1,0 +1,16 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.imgcontainer{
+    float: right;
+}
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color:rgb(172, 87, 2);
+}
+

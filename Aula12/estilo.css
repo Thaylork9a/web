@@ -1,0 +1,29 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+}
+.estiliza{
+    width: auto;
+    margin: auto;
+}
+.centraliza{
+    margin-bottom: 100px;
+}
+@media( max-width=768px){
+    .estiliza{
+        width: auto;
+        margin: auto;
+        background-color: blue;
+        color: white;
+    }
+
+}
+@media( max-width=545px){
+    .estiliza{
+        width: auto;
+        margin: auto;
+        background-color: blue;
+        color: white;
+    }
+
+}
